@@ -14,7 +14,7 @@ I found an economically and statistically significant negative link between a to
 **Keywords**: sentiments, toxicity, communication, Natural Language Processing, performance, teamwork, linear regression.
 
 
-This folder provides:
+This repo provides:
 - [a Thesis in pdf format](https://github.com/JustJAG/the-effect-of-toxicity-on-a-team-performance/blob/d5a8adc694a0884b7c9a566e19cc17c74f17a5a9/Thesis%20The%20effect%20of%20sentiments%20in%20communication%20on%20a%20team%20performance.pdf)
 - [data of 50,000 Dota 2 matches](https://github.com/JustJAG/the-effect-of-toxicity-on-a-team-performance/tree/main/Data/Original)
 - [data of ~160,000 Wikipedia comments](https://github.com/JustJAG/the-effect-of-toxicity-on-a-team-performance/blob/d5a8adc694a0884b7c9a566e19cc17c74f17a5a9/Code/toxic_classifier/train.csv)
